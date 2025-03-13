@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Hello!"
+ech "Hello!"
 # Hello, programmers! This is a comment.
